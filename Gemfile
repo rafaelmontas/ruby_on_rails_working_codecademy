@@ -5,6 +5,7 @@ gem 'rails', '4.1.1'
 group :production, :staging do
       gem 'pg'
       gem 'rails_12factor'
+		  gem 'psych'
     end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'

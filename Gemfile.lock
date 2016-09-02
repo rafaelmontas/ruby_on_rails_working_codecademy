@@ -55,6 +55,7 @@ GEM
     multi_json (1.12.1)
     pg (0.18.1)
     polyglot (0.3.5)
+    psych (2.1.0)
     rack (1.5.5)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -122,6 +123,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   pg
+  psych
   rails (= 4.1.1)
   rails_12factor
   sass-rails (~> 4.0.3)
